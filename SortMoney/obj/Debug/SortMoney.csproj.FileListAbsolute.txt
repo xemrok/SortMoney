@@ -1,0 +1,7 @@
+C:\Users\Nobleman\source\repos\SortMoney\SortMoney\bin\Debug\SortMoney.exe.config
+C:\Users\Nobleman\source\repos\SortMoney\SortMoney\bin\Debug\SortMoney.exe
+C:\Users\Nobleman\source\repos\SortMoney\SortMoney\bin\Debug\SortMoney.pdb
+C:\Users\Nobleman\source\repos\SortMoney\SortMoney\obj\Debug\SortMoney.csprojAssemblyReference.cache
+C:\Users\Nobleman\source\repos\SortMoney\SortMoney\obj\Debug\SortMoney.csproj.CoreCompileInputs.cache
+C:\Users\Nobleman\source\repos\SortMoney\SortMoney\obj\Debug\SortMoney.exe
+C:\Users\Nobleman\source\repos\SortMoney\SortMoney\obj\Debug\SortMoney.pdb
